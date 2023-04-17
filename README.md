@@ -7,7 +7,7 @@ This script is from the blog post entitled "Log Timing Delays in Splunk Could be
 * The script should be run as a user OTHER than the specified search owner.
 * The script needs to be run as a user with the approriate index and job history access.
 * The script can be intensive if used against saved searches that are intensive.
-* The graphs will not display outside of Jupyter Notebooks.
+* To use the graphing function, execute the code from a Jupyter Notebook.
 
 # Usage
 The script takes a config file as input. This file is a json file in the same directory as the script or jupyter notebook.
