@@ -207,7 +207,7 @@ def main():
         base_url = data['base_url']
         port = data['port']
         owner = data['owner']
-        graph = 'false'
+        graph = data['graph']
   
     #show banner
     banner()
