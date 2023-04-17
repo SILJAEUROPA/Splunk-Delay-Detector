@@ -23,7 +23,7 @@ The script takes a config file as input. This file is a json file in the same di
         "graph": "true"
     }
 
-## Description of attributes
+## Description of config attributes
 
     *splunk_account* - Splunk account used to check ran *saved searched* and rerun to compare results.
     *splunk_password* - Corresponding Splunk account password
