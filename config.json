@@ -1,0 +1,8 @@
+{
+    "splunk_account":"splunk",
+    "splunk_password":"splunkpassword",
+    "base_url":"example.splunkcloud.com",
+    "port": "8089",
+    "owner": "splunk",
+    "graph": "true"
+}
