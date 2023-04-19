@@ -5,7 +5,7 @@ This script is from the blog post entitled "Log Timing Delays in Splunk Could be
 # Important Notes
 * The script needs to run in an environment that has network API access to your Splunk instance.
 * The script should be run as a user OTHER than the specified search owner.
-* The script needs to be run as a user with the approriate index and job history access.
+* The script needs to be run as a user with the approriate index and search job history access.
 * The script can be intensive if used against saved searches that are intensive.
 * To use the graphing function, execute the code from a Jupyter Notebook.
 
